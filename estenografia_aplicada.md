@@ -193,7 +193,7 @@ En el mismo proyecto, crea un nuevo archivo Program.cs para extraer el mensaje o
             }
         }
 ```
-### Paso 4: Combianción los metodos para Ecribir ,Extraer y Ejecutar el Comando desde la Imagen
+### Paso 4: Combianción los metodos para Escribir ,Extraer y Ejecutar el Comando desde la Imagen
 
  ```csharp
     using System;

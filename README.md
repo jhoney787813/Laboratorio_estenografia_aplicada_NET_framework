@@ -10,6 +10,7 @@ La esteganografía es una técnica que permite ocultar información dentro de ot
 [-> Video Completo de práctica](https://github.com/jhoney787813/Laboratorio_estenografia_aplicada_NET_framework/blob/main/estenografia_aplicada.md)
 
 🚀 ¿Qué aprenderás en este laboratorio?
+
 **Ocultar** comandos y datos dentro de imágenes sin dejar rastro.
 
 **Extraer** la información oculta y ejecutarla de manera segura.

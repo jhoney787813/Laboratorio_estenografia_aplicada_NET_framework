@@ -5,6 +5,7 @@ La esteganografía es una técnica que permite ocultar información dentro de ot
 🎬🔐 ¡Descubre el poder de la Esteganografía! 🔐🎬
 
 🌐 ¿Sabías que las imágenes pueden esconder secretos? En este video, te mostramos cómo ocultar un comando de consola en una imagen y ejecutarlo solo con un clic. 💻👀
+[-> Video Completo de práctica](https://youtu.be/Gt7tuk75hMI)
 
 🚀 ¿Qué aprenderás en este laboratorio?
 **Ocultar** comandos y datos dentro de imágenes sin dejar rastro.
@@ -16,3 +17,9 @@ Aplicar técnicas de seguridad avanzada para proteger información sensible.
 🔒 La esteganografía es más que una técnica: es una herramienta clave en la protección de datos y en el mundo de la ciberseguridad. 💡
 ¡No te pierdas este laboratorio único! Dale un vistazo y aprende a ocultar información en archivos aparentemente inofensivos. ¡Es hora de mantener tus secretos a salvo! 🤫🔑
 
+[-> Importancia de la Esteganografía ](https://github.com/jhoney787813/Laboratorio_estenografia_aplicada_NET_framework/blob/main/importancia_esteganografria.md)
+
+
+
+
+[Jhon E -> GitHub Profile](https://github.com/jhoney787813/)

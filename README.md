@@ -21,6 +21,6 @@ Aplicar técnicas de seguridad avanzada para proteger información sensible.
 [-> Importancia de la Esteganografía ](https://github.com/jhoney787813/Laboratorio_estenografia_aplicada_NET_framework/blob/main/importancia_esteganografria.md)
 
 
-
+ ![perrito](https://github.com/user-attachments/assets/65668f71-ad48-41ff-8678-b942d417f687)
 
 [Jhon E -> GitHub Profile](https://github.com/jhoney787813/)

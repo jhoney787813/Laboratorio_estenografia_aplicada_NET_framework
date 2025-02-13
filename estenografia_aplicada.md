@@ -336,3 +336,8 @@ Este laboratorio mostró cómo ocultar un comando dentro de una imagen utilizand
 
 **Wikipedia. (2025)**. Steganography. Recuperado de https://en.wikipedia.org/wiki/Steganography
 .NET Documentation. (2025). ProcessStartInfo. Recuperado de https://docs.microsoft.com/en-us/dotnet/api/system.diagnostics.processstartinfo
+
+
+---
+
+[Jhon E -> GitHub Profile](https://github.com/jhoney787813/)

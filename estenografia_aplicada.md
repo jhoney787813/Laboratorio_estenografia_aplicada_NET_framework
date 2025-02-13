@@ -1,16 +1,19 @@
 
 # Laboratorio: Ocultamiento de Información en Imágenes Usando Esteganografía
 
-## Universidad Politécnico Grancolombiano
+## **Universidad Politécnico Grancolombiano**  
 **Especialización en Seguridad de la Información**  
-Materia: Criptografía simétrica  
-Docente: José Alfonso Valencia Rodríguez  
-Autor: Jhon Edison Hincapié  
-Año: 2025  
+**Materia:** Criptografía simétrica  
+**Docente:** José Alfonso Valencia Rodríguez  
+**Autor:** Jhon Edison Hincapié  
+**Año:** 2025  
 
----
 
-## Objetivo
+## Introducción
+
+La esteganografía es una técnica que permite ocultar información dentro de otros archivos de manera que el contenido oculto no sea visible para el observador promedio. En el caso de este ejercicio, ocultaremos un comando dentro de una imagen. Esto puede ser útil tanto en escenarios legítimos como maliciosos. En contextos de seguridad, se puede utilizar para ocultar mensajes entre sistemas o incluso comandos que serán ejecutados en otros dispositivos, evitando la detección en tránsito.
+
+## Objetivo Principal
 
 El objetivo de este laboratorio es demostrar cómo se puede ocultar información, en particular un comando de consola que imprime un saludo, dentro de una imagen utilizando **esteganografía**. El proceso implicará:
 
@@ -18,11 +21,6 @@ El objetivo de este laboratorio es demostrar cómo se puede ocultar información
 2. Ocultar este comando en una imagen mediante esteganografía.
 3. Crear una aplicación para extraer el comando oculto y ejecutarlo en la consola.
 
----
-
-## Justificación
-
-La esteganografía es una técnica que permite ocultar información dentro de otros archivos de manera que el contenido oculto no sea visible para el observador promedio. En el caso de este ejercicio, ocultaremos un comando dentro de una imagen. Esto puede ser útil tanto en escenarios legítimos como maliciosos. En contextos de seguridad, se puede utilizar para ocultar mensajes entre sistemas o incluso comandos que serán ejecutados en otros dispositivos, evitando la detección en tránsito.
 
 ---
 
@@ -201,6 +199,7 @@ En el mismo proyecto, crea un nuevo archivo Program.cs para extraer el mensaje o
 -   **Extraer los bits:** Recorrimos nuevamente los píxeles de la imagen y extraímos los bits menos significativos de la componente azul de cada píxel. Estos bits se recomponen en el comando original.
 -   **Ejecutar el comando:** Usamos Process.Start para ejecutar el comando extraído en la consola de Windows.
 
+---
 
 ## Conclusión
 

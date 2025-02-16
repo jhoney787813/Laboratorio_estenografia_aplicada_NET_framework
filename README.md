@@ -3,11 +3,11 @@
 La esteganografía es una técnica que permite ocultar información dentro de otros archivos de manera que el contenido oculto no sea visible para el observador promedio. En el caso de este ejercicio, ocultaremos un comando dentro de una imagen. Esto puede ser útil tanto en escenarios legítimos como maliciosos. En contextos de seguridad, se puede utilizar para ocultar mensajes entre sistemas o incluso comandos que serán ejecutados en otros dispositivos, evitando la detección en tránsito.
 
 🎬🔐 ¡Descubre el poder de la Esteganografía! 🔐🎬
-[-> Ver Laboratorio Paso a paso ]()
+[-> Ver Laboratorio Paso a paso ](https://github.com/jhoney787813/Laboratorio_estenografia_aplicada_NET_framework/blob/main/estenografia_aplicada.md)
 
 
 🌐 ¿Sabías que las imágenes pueden esconder secretos? En este video, te mostramos cómo ocultar un comando de consola en una imagen y ejecutarlo solo con un clic. 💻👀
-[-> Video Completo de práctica](https://github.com/jhoney787813/Laboratorio_estenografia_aplicada_NET_framework/blob/main/estenografia_aplicada.md)
+[-> Video Completo de práctica](https://www.youtube.com/watch?v=Gt7tuk75hMI)
 
 🚀 ¿Qué aprenderás en este laboratorio?
 

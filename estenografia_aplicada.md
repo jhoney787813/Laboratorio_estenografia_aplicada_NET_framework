@@ -213,8 +213,8 @@ namespace Esteganografia
         {
             Console.WriteLine("Iniciando lenctura");
             string mensaje = "echo ¡Hola desde la imagen! pause";  // El comando a ocultar
-            string imagenOriginal = @"C:\\Users\\jhon_hincapie\\Downloads\\LABOTARIORIOS\\perrito.png";  // Ruta de la imagen original
-            string imagenOculta = @"C:\\Users\\jhon_hincapie\\Downloads\\LABOTARIORIOS\\perritoCodificado.png";  // Ruta para la imagen resultante
+            string imagenOriginal = @"C:\\USER\\LABOTARIORIOS\\perrito.png";  // Ruta de la imagen original
+            string imagenOculta = @"C:\\USER\\LABOTARIORIOS\\perritoCodificado.png";  // Ruta para la imagen resultante
 
             OcultarMensajeEnImagen(imagenOriginal, imagenOculta, mensaje);
             Console.WriteLine("Mensaje oculto en la imagen.");

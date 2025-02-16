@@ -13,6 +13,10 @@
 
 La esteganografía es una técnica que permite ocultar información dentro de otros archivos de manera que el contenido oculto no sea visible para el observador promedio. En el caso de este ejercicio, ocultaremos un comando dentro de una imagen. Esto puede ser útil tanto en escenarios legítimos como maliciosos. En contextos de seguridad, se puede utilizar para ocultar mensajes entre sistemas o incluso comandos que serán ejecutados en otros dispositivos, evitando la detección en tránsito.
 
+En el mundo de la ciberseguridad, este campo tiene un impacto profundo. Mientras que puede usarse para proteger la privacidad y asegurar datos sensibles, también es aprovechada por ciberdelincuentes para esconder actividades ilícitas, como el robo de información o la distribución de malware.
+
+La capacidad de la esteganografía para evadir las herramientas tradicionales de seguridad representa tanto un desafío como una oportunidad. Conocer cómo funciona y cómo identificarla es esencial para mejorar nuestras estrategias de defensa y proteger mejor la información en un entorno digital cada vez más complejo.
+
 ## Objetivo Principal
 
 El objetivo de este laboratorio es demostrar cómo se puede ocultar información, en particular un comando de consola que imprime un saludo, dentro de una imagen utilizando **esteganografía**. El proceso implicará:
